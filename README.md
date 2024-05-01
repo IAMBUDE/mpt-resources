@@ -11,6 +11,6 @@ How to install:
 5. If something shows as RED, you should pay attention to it
 6. Wait for it to say it has completed
 7. Close the installer box
-8. Download the latest release pack from here:https://github.com/IAMBUDE/mpt-resources/releases
+8. Download the latest release pack from here: https://github.com/IAMBUDE/mpt-resources/releases
 9. Carefully read any instructions
 10. Move the contents to the SPT folder
