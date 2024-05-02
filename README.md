@@ -33,3 +33,5 @@ How to install:
 - [SWAG & Donuts](https://github.com/p-kossa/nookys-swag-presets-spt/)
 - Visceral Dismemberment
 - [MPT / Fika](https://github.com/project-fika/Fika-Plugin)
+- [DrakiaXYZ-QuickMoveToContainer](https://github.com/DrakiaXYZ/SPT-QuickMoveToContainer)
+- [Fontaine-Zeroing-QOL](https://www.dropbox.com/scl/fi/rgldk7okyuhvhjm16r09r/Fontaine-Zeroing-QOL-1.3.0-SPT-3.8.0.zip?rlkey=67jd3dc8qo533z7t3ogp3tgvh&dl=0)
