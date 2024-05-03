@@ -2,36 +2,56 @@
 $modsFolder = "Mods"
 $releasesFolder = "Releases"
 
+# Create a list to hold all needed directories
+$requiredDirectories = @{}
+
 # Get all mod directories
 $modDirectories = Get-ChildItem -Path $modsFolder -Directory
 
+# Create directories
 foreach ($modDir in $modDirectories) {
-    # Get all files and folders recursively within each mod directory
-    $items = Get-ChildItem -Path $modDir.FullName -Recurse
-    
+    $items = Get-ChildItem -Path $modDir.FullName -Recurse -File
     foreach ($item in $items) {
-        # Determine the relative path from the mod folder
         $relativePath = $item.FullName.Substring($modDir.FullName.Length)
-
-        # Set the full destination path
         $destinationPath = Join-Path -Path $releasesFolder -ChildPath $relativePath
-
-        # Check if the item is a directory or a file and create directories if needed
-        if ($item -is [System.IO.DirectoryInfo]) {
-            if (-Not (Test-Path -Path $destinationPath)) {
-                New-Item -Path $destinationPath -ItemType Directory
-            }
-        } else {
-            # Ensure the destination directory exists before copying files
-            $destinationDir = Split-Path -Path $destinationPath -Parent
-            if (-Not (Test-Path -Path $destinationDir)) {
-                New-Item -Path $destinationDir -ItemType Directory
-            }
-
-            # Copy the file, overwriting existing files
-            Copy-Item -Path $item.FullName -Destination $destinationPath -Force
-        }
+        $parentDir = Split-Path -Path $destinationPath -Parent
+        $requiredDirectories[$parentDir] = $true
     }
 }
 
-Write-Output "All mods have been successfully merged into the releases folder."
+$requiredDirectories.Keys | Sort-Object -Unique | ForEach-Object {
+    if (-Not (Test-Path $_)) {
+        New-Item -Path $_ -ItemType Directory -Force | Out-Null
+    }
+}
+
+# Copy files and verify
+$successfulMods = @()
+foreach ($modDir in $modDirectories) {
+    $allFilesCopiedSuccessfully = $true
+    $items = Get-ChildItem -Path $modDir.FullName -Recurse -File
+    foreach ($item in $items) {
+        $relativePath = $item.FullName.Substring($modDir.FullName.Length)
+        $destinationPath = Join-Path -Path $releasesFolder -ChildPath $relativePath
+        Copy-Item -Path $item.FullName -Destination $destinationPath -Force
+        
+        # Verify that the file was copied
+        if (-Not (Test-Path $destinationPath)) {
+            Write-Output "Failed to copy file: $item.FullName"
+            $allFilesCopiedSuccessfully = $false
+        }
+    }
+    if ($allFilesCopiedSuccessfully) {
+        $successfulMods += $modDir.Name
+    }
+}
+
+# Output the names of successfully copied mods
+if ($successfulMods.Count -gt 0) {
+    Write-Output "The following mod folders have been successfully merged into the releases folder:"
+    $successfulMods | ForEach-Object { Write-Output $_ }
+} else {
+    Write-Output "No mods were successfully copied."
+}
+
+Write-Output "Operation completed."
