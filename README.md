@@ -37,4 +37,3 @@ How to install:
 - [Fontaine-Zeroing-QOL](https://www.dropbox.com/scl/fi/rgldk7okyuhvhjm16r09r/Fontaine-Zeroing-QOL-1.3.0-SPT-3.8.0.zip?rlkey=67jd3dc8qo533z7t3ogp3tgvh&dl=0)
 - [Fontaine-ALE](https://hub.sp-tarkov.com/files/file/937-fontaine-s-always-level-endurance-ale/?highlight=Always%20level)
 - [Fontaine-InspectionlessMalfs](https://hub.sp-tarkov.com/files/file/661-fontaine-s-inspectionless-malfs/)
-- [notGreg.ScopeTweaks](https://hub.sp-tarkov.com/files/file/831-notgreg-s-scope-tweaks/#versions)
