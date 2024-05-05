@@ -1,4 +1,0 @@
-SPT-AKI (NCSA License, some modules are disabled and overriden by MPT)
-SIT for the original foundation of the mod (Unlicensed)
-LiteNetLib (MIT License)
-Open.NAT (MIT License)
