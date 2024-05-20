@@ -21,13 +21,13 @@
       "interchange": 0,
       "laboratory": 0,
       "lighthouse": 0,
-      "reserve": 35,
+      "reserve": 40,
       "shoreline": 0,
       "streets": 0,
       "woods": 0
     },
     "goons": {
-      "customs": 35,
+      "customs": 40,
       "factory": 0,
       "factory_night": 0,
       "groundzero": 0,
@@ -35,9 +35,9 @@
       "laboratory": 0,
       "lighthouse": 30,
       "reserve": 0,
-      "shoreline": 35,
+      "shoreline": 40,
       "streets": 0,
-      "woods": 35
+      "woods": 40
     },
     "kaban": {
       "customs": 0,
@@ -49,7 +49,7 @@
       "lighthouse": 0,
       "reserve": 0,
       "shoreline": 0,
-      "streets": 35,
+      "streets": 40,
       "woods": 0
     },
     "killa": {
@@ -57,7 +57,7 @@
       "factory": 0,
       "factory_night": 0,
       "groundzero": 0,
-      "interchange": 35,
+      "interchange": 40,
       "laboratory": 0,
       "lighthouse": 0,
       "reserve": 0,
@@ -69,17 +69,17 @@
       "customs": 0,
       "factory": 0,
       "factory_night": 0,
-      "groundzero": 35,
+      "groundzero": 40,
       "interchange": 0,
       "laboratory": 0,
       "lighthouse": 0,
       "reserve": 0,
       "shoreline": 0,
-      "streets": 35,
+      "streets": 40,
       "woods": 0
     },
     "reshala": {
-      "customs": 35,
+      "customs": 40,
       "factory": 0,
       "factory_night": 0,
       "groundzero": 0,
@@ -100,7 +100,7 @@
       "laboratory": 0,
       "lighthouse": 0,
       "reserve": 0,
-      "shoreline": 25,
+      "shoreline": 30,
       "streets": 0,
       "woods": 0
     },
@@ -115,12 +115,12 @@
       "reserve": 0,
       "shoreline": 0,
       "streets": 0,
-      "woods": 15
+      "woods": 40
     },
     "tagilla": {
       "customs": 0,
-      "factory": 35,
-      "factory_night": 35,
+      "factory": 40,
+      "factory_night": 40,
       "groundzero": 0,
       "interchange": 0,
       "laboratory": 0,
