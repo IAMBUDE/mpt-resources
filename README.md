@@ -24,3 +24,7 @@ Refer to [mpt-client](https://github.com/IAMBUDE/mpt-client) for client installa
 - [Fontaine-InspectionlessMalfs](https://hub.sp-tarkov.com/files/file/661-fontaine-s-inspectionless-malfs/)
 - [LoadOrder](https://hub.sp-tarkov.com/files/file/1082-loe-load-order-editor/)
 - [Server Value Modifier](https://hub.sp-tarkov.com/files/file/379-server-value-modifier-svm/)
+- [Tyfon7 - UI Fixes](https://github.com/tyfon7/UIFixes)
+- [DrakiaXYZ-SPTQuestTracker](https://github.com/DrakiaXYZ/SPT-QuestTracker)
+- [DrakiaXYZ-SPTEquipFromWeaponRack](https://github.com/DrakiaXYZ/SPT-EquipFromWeaponRack)
+- [Soulztorm-ChooChoo-TraderModding](https://github.com/Soulztorm/ChooChoo-TraderModding)
