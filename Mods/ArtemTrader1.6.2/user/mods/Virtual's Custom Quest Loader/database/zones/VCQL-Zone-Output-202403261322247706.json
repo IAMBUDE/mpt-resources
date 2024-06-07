@@ -1,0 +1,46 @@
+[
+  {
+    "ZoneId": "ARTT_LIGHTHOUSE_MEDMANSION",
+    "ZoneName": "ARTT_LIGHTHOUSE_MEDMANSION",
+    "ZoneLocation": "Lighthouse",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-120.6088",
+      "Y": "36.63736",
+      "Z": "92.97433"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "8.75",
+      "Y": "10.25",
+      "Z": "11"
+    }
+  },
+  {
+    "ZoneId": "ARTT_LIGHTHOUSE_MEDBED",
+    "ZoneName": "ARTT_LIGHTHOUSE_MEDBED",
+    "ZoneLocation": "Lighthouse",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-120.9479",
+      "Y": "36.88736",
+      "Z": "79.64074"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "1.5",
+      "Y": "1.25",
+      "Z": "1.5"
+    }
+  }
+]

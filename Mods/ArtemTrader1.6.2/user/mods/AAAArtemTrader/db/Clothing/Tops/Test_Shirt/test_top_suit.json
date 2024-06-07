@@ -1,0 +1,19 @@
+{
+  "_id": "test_top_suit",
+  "_name": "test_top_suit",
+  "_parent": "5cd944ca1388ce03a44dc2a4",
+  "_type": "Item",
+  "_props": {
+    "Name": "DefaultUsecUpperSuite",
+    "ShortName": "DefaultUsecUpperSuite",
+    "Description": "DefaultUsecUpperSuite",
+    "Side": [
+      "Usec",
+      "Bear"
+    ],
+    "AvailableAsDefault": false,
+    "Body": "test_top",
+    "Hands": "test_top_hands"
+  },
+  "_proto": "5cde9ec17d6c8b04723cf479"
+}

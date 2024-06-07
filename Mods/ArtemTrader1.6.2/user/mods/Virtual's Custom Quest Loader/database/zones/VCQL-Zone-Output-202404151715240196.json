@@ -1,0 +1,68 @@
+[
+  {
+    "ZoneId": "ARTEM_TERA_TENT1",
+    "ZoneName": "ARTEM_TERA_TENT1",
+    "ZoneLocation": "factory4_day",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-17.70827",
+      "Y": "0.2550012",
+      "Z": "-27.92825"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "5.5",
+      "Y": "1",
+      "Z": "11.5"
+    }
+  },
+  {
+    "ZoneId": "ARTEM_TERA_TENT2",
+    "ZoneName": "ARTEM_TERA_TENT2",
+    "ZoneLocation": "factory4_day",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-15.20827",
+      "Y": "1.255001",
+      "Z": "-23.92825"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "1",
+      "Y": "2.75",
+      "Z": "1"
+    }
+  },
+  {
+    "ZoneId": "ARTEM_MEDICAL_TENT3",
+    "ZoneName": "ARTEM_MEDICAL_TENT3",
+    "ZoneLocation": "factory4_day",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-15.4365",
+      "Y": "0.5430146",
+      "Z": "-29.60016"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2",
+      "Y": "1.75",
+      "Z": "1.75"
+    }
+  }
+]

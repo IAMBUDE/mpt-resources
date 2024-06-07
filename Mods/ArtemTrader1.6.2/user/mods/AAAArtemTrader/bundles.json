@@ -1,0 +1,179 @@
+{
+    "manifest": [
+        {
+            "key": "Pants/Graves_Pants.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Pants/artem_pants_1.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Pants/artem_pants_2.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Pants/artem_pants_3.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Pants/artem_pants_5.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Tops/testshirt.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Tops/artem_top_1.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Tops/artem_top_2.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Tops/artem_top_3.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Tops/artem_top_4.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Tops/artem_top_5.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Tops/artem_top_6.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Tops/artem_top_7.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Tops/artem_top_8.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Tops/artem_top_9.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Hands/testhands.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Hands/artem_hands_1.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Hands/artem_hands_2.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Hands/artem_hands_3.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Hands/artem_hands_4.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Hands/artem_hands_5.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Hands/artem_hands_6.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Hands/artem_hands_7.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Hands/artem_hands_8.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        },
+        {
+            "key": "Hands/artem_hands_9.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"             
+            ]
+        }
+    ]
+}

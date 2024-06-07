@@ -1,0 +1,68 @@
+[
+  {
+    "ZoneId": "ARTEM_BLUEFLAMESROOM",
+    "ZoneName": "ARTEM_BLUEFLAMESROOM",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "43.52784",
+      "Y": "1.011647",
+      "Z": "-57.12333"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "4.5",
+      "Y": "3.75",
+      "Z": "6.75"
+    }
+  },
+  {
+    "ZoneId": "ARTEM_BLUEFLAMESTABLE_PART1",
+    "ZoneName": "ARTEM_BLUEFLAMESTABLE_PART1",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "43.85513",
+      "Y": "1.011647",
+      "Z": "-56.45304"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2.5",
+      "Y": "1.5",
+      "Z": "3"
+    }
+  },
+  {
+    "ZoneId": "ARTEM_BLUEFLAMESSCREEN_PART1",
+    "ZoneName": "ARTEM_BLUEFLAMESSCREEN_PART1",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "44.11117",
+      "Y": "2.492749",
+      "Z": "-60.34447"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "4",
+      "Y": "2.75",
+      "Z": "0.5"
+    }
+  }
+]
