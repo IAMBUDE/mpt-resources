@@ -4432,7 +4432,7 @@
         "artem_9x39mmSPP": [
             [
                 {
-                    "count": 752,
+                    "count": 2752,
                     "_tpl": "5449016a4bdc2d6f028b456f"
                 }
             ]
@@ -4758,10 +4758,10 @@
         "artem_hexagonsuppressor": 3,
         "artem_6h118raidbackpack": 3,
         "artem_walkersXCELheadset": 3,
-        "artem_57x28ss190": 3,
+        "artem_57x28ss190": 4,
         "artem_762x39pp": 3,
         "artem_556m865a1": 3,
-        "artem_556m855a1": 3,
+        "artem_556m855a1": 4,
         "artem_ammobox": 3,
         "artem_se5gripblack": 3,
         "artem_se5gripfde": 3,
@@ -4783,7 +4783,7 @@
         "artem_762mag50": 3,
         "artem_300blackoutBCP": 2,
         "artem_salwea": 2,
-        "artem_gpnvgbarter": 2,
+        "artem_gpnvgbarter": 4,
         "artem_recknagel30mmring": 2,
         "artem_pnv10adapter": 2,
         "artem_msaheadphones": 2,
@@ -4802,7 +4802,7 @@
         "artem_gropat20": 2,
         "artem_n15nvg": 2,
         "artem_pnv10nvg": 2,
-        "artem_545pp": 2,
+        "artem_545pp": 3,
         "artem_mpx": 2,
         "artem_mp7mag30": 2,
         "artem_eotechxpes3tan": 2,
@@ -4820,7 +4820,7 @@
         "artem_akuspalmblack": 2,
         "artem_bntizhuk3": 2,
         "artem_919ap": 3,
-        "artem_9x39mmSPP": 2,
+        "artem_9x39mmSPP": 3,
         "artem_76251FMJ": 2,
         "artem_surfireSF3P": 2,
         "artem_ak545mag60": 2,
