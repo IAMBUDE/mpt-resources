@@ -1,14 +1,19 @@
 {
   "order": [
-    "Realistic-Thermals-1.0.2",
+    "Virtual's Custom Quest Loader",
     "ACOG4Life-OpticRework-SPT-380",
     "BRNVG_N-15Adapter",
     "Fontaine-FOV-Fix",
-    "ServerValueModifier",
     "MoreCheckmarksBackend",
+    "AAAArtemTrader",
+    "AAArtemEquipment",
+    "ChooChoo-TraderModding",
+    "Realistic-Thermals-1.0.3",
+    "tyfon-uifixes",
     "SWAG",
     "zSolarint-SAIN-ServerMod",
     "DanW-SPTQuestingBots",
+    "ServerValueModifier",
     "Skwizzy-NoDiscardLimit",
     "fika-server"
   ]
