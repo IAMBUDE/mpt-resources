@@ -1,7 +1,7 @@
 # Define the base directories
-$modsFolder = "Mods"
-$releasesFolder = "Releases"
-$updatesFolder = "Updates" # Define the updates folder
+$modsFolder = "$PSScriptRoot\Mods"
+$releasesFolder = "$PSScriptRoot\Releases"
+$updatesFolder = "$PSScriptRoot\Updates" # Define the updates folder
 
 # Create a list to hold all needed directories
 $requiredDirectories = @{}
