@@ -1,7 +1,7 @@
 {
   "PresetNotes": "",
   "Items": {
-    "HeatFactor": 0.5,
+    "HeatFactor": 0.8,
     "ExamineTime": 1,
     "ExamineKeys": false,
     "AddSignalPistolToSpec": false,
