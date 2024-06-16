@@ -12,7 +12,7 @@
    "Spawns": {
       "useGlobalSpawnChance": true,
       "bloodhounds": {
-         "customs": 20,
+         "customs": 30,
          "factory": 0,
          "factory_night": 0,
          "groundzero": 0,
@@ -20,12 +20,12 @@
          "laboratory": 0,
          "lighthouse": 0,
          "reserve": 0,
-         "shoreline": 30,
+         "shoreline": 40,
          "streets": 0,
-         "woods": 30
+         "woods": 40
       },
       "cultists": {
-         "customs": 30,
+         "customs": 50,
          "factory": 0,
          "factory_night": 25,
          "groundzero": 0,
@@ -33,9 +33,9 @@
          "laboratory": 0,
          "lighthouse": 0,
          "reserve": 0,
-         "shoreline": 30,
+         "shoreline": 60,
          "streets": 0,
-         "woods": 40
+         "woods": 70
       },
       "raiders": {
          "customs": 0,
