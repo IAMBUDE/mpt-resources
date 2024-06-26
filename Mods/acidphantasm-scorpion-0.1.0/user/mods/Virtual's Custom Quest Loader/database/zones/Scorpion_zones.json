@@ -1142,5 +1142,137 @@
       "Y": "3",
       "Z": "8.5"
     }
+  },
+  {
+    "ZoneId": "scorpion_event_woods_useccamp",
+    "ZoneName": "scorpion_event_woods_useccamp",
+    "ZoneLocation": "Woods",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "289.3267",
+      "Y": "23.89419",
+      "Z": "-440.7957"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "14",
+      "Y": "2.5",
+      "Z": "11.5"
+    }
+  },
+  {
+    "ZoneId": "scorpion_event_woods_useccamp2",
+    "ZoneName": "scorpion_event_woods_useccamp2",
+    "ZoneLocation": "Woods",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "278.198",
+      "Y": "23.88321",
+      "Z": "-509.4993"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "10.5",
+      "Y": "2",
+      "Z": "11.5"
+    }
+  },
+  {
+    "ZoneId": "scorpion_event_woods_radio",
+    "ZoneName": "scorpion_event_woods_radio",
+    "ZoneLocation": "Woods",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "226.0909",
+      "Y": "25.31895",
+      "Z": "-707.0381"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "9",
+      "Y": "2",
+      "Z": "9"
+    }
+  },
+  {
+    "ZoneId": "scorpion_event_woods_scav",
+    "ZoneName": "scorpion_event_woods_scav",
+    "ZoneLocation": "Woods",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "130.0811",
+      "Y": "25.39942",
+      "Z": "-743.1104"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "9.5",
+      "Y": "2",
+      "Z": "11"
+    }
+  },
+  {
+    "ZoneId": "scorpion_event_woods_radiobunker",
+    "ZoneName": "scorpion_event_woods_radiobunker",
+    "ZoneLocation": "Woods",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "230.9035",
+      "Y": "21.14908",
+      "Z": "-710.0911"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2",
+      "Y": "2",
+      "Z": "1.5"
+    }
+  },
+  {
+    "ZoneId": "scorpion_event_woods_radio_kz",
+    "ZoneName": "scorpion_event_woods_radio_kz",
+    "ZoneLocation": "Woods",
+    "ZoneType": "botkillzone",
+    "FlareType": "",
+    "Position": {
+      "X": "226.2537",
+      "Y": "17.8153",
+      "Z": "-705.7047"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "93",
+      "Y": "20.5",
+      "Z": "93"
+    }
   }
 ]
