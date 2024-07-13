@@ -28,3 +28,4 @@ Refer to [mpt-client](https://github.com/IAMBUDE/mpt-client) for client installa
 - [x] [DrakiaXYZ-SPTQuestTracker](https://github.com/DrakiaXYZ/SPT-QuestTracker)
 - [x] [DrakiaXYZ-SPTEquipFromWeaponRack](https://github.com/DrakiaXYZ/SPT-EquipFromWeaponRack)
 - [Soulztorm-ChooChoo-TraderModding](https://github.com/Soulztorm/ChooChoo-TraderModding)
+- [x] [Kaeno-Traderscrolling](https://hub.sp-tarkov.com/files/file/1508-kaeno-traderscrolling)
