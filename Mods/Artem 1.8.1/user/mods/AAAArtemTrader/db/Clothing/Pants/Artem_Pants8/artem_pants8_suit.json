@@ -1,0 +1,18 @@
+{
+  "_id": "Artem_Pants8_Suit",
+  "_name": "Artem_Pants8_Suit",
+  "_parent": "5cd944d01388ce000a659df9",
+  "_type": "Item",
+  "_props": {
+    "Name": "Artem_Pants8_Suit",
+    "ShortName": "Artem_Pants8_Suit",
+    "Description": "Artem_Pants8_Suit",
+    "Side": [
+      "Usec",
+      "Bear"
+    ],
+    "AvailableAsDefault": true,
+    "Feet": "Artem_Pants8"
+  },
+  "_proto": "5cd946231388ce000d572fe3"
+}

@@ -1,0 +1,25 @@
+{
+    "started": {
+        "ARTEM_GROOVEYFLASHDRIVE": "ARTT_20"
+    },
+    "success": {
+        "artem_labskeycard": "ARTT_12",
+        "artem_testbullet": "ARTT_7",
+        "artem_m855": "ARTT_1",
+        "artem_762x39ps": "ARTT_2",
+        "artem_medbox": "ARTT_1",
+        "artem_flechette": "ARTT_4",
+        "artem_762x39bp": "ARTT_6",
+        "artem_300blackoutBCP": "ARTT_5",
+        "artem_300blackoutAP": "ARTT_6",
+        "artem_4.6x30mm": "ARTT_10",
+        "artem_556x45mm995": "ARTT_14",
+        "artem_M61": "ARTT_8",
+        "artem_afak": "ARTT_11",
+        "artem_mcxll3": "ARTT_20",
+        "ARTEM_VEILBLACK": "ARTT_4",
+        "ARTEM_VEILTAN": "ARTT_4",
+        "ARTEM_VEILOD": "ARTT_4"
+    },
+    "fail": {}
+}

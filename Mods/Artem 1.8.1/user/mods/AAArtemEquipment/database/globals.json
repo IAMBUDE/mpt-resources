@@ -1,0 +1,922 @@
+{
+	"ItemPresets": {
+		"668bc5cd834c88e06b08b6ad": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "66326bfd46817c660d015126",
+			"_id": "668bc5cd834c88e06b08b6ad",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6ae",
+					"_tpl": "66326bfd46817c660d015126"
+				},
+				{
+					"_id": "6305b9e5418beae5ec491838",
+					"_tpl": "6551fec55d0cf82e51014288",
+					"parentId": "668bc5cd834c88e06b08b6ae",
+					"slotId": "Helmet_top"
+				},
+				{
+					"_id": "f5baeb4f942fb0ab1894d132",
+					"_tpl": "655200ba0ef76cf7be09d528",
+					"parentId": "668bc5cd834c88e06b08b6ae",
+					"slotId": "Helmet_back"
+				}
+			],
+			"_name": "Ops-Core FAST Carbon High Cut Helmet (Dark Blue)",
+			"_parent": "668bc5cd834c88e06b08b6ae",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6c3": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "66326bfd46817c660d015128",
+			"_id": "668bc5cd834c88e06b08b6c3",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6c4",
+					"_tpl": "66326bfd46817c660d015128"
+				},
+				{
+					"_id": "6305b9e5418beae5ec491838",
+					"_tpl": "6551fec55d0cf82e51014288",
+					"parentId": "668bc5cd834c88e06b08b6c4",
+					"slotId": "Helmet_top"
+				},
+				{
+					"_id": "f5baeb4f942fb0ab1894d132",
+					"_tpl": "655200ba0ef76cf7be09d528",
+					"parentId": "668bc5cd834c88e06b08b6c4",
+					"slotId": "Helmet_back"
+				}
+			],
+			"_name": "Ops-Core FAST Carbon High Cut Helmet (Typography)",
+			"_parent": "668bc5cd834c88e06b08b6c4",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6af": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "66326bfd46817c660d015129",
+			"_id": "668bc5cd834c88e06b08b6af",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6b0",
+					"_tpl": "66326bfd46817c660d015129"
+				},
+				{
+					"_id": "ea35ffbb9a5c888bd3dad6e4",
+					"_tpl": "6551fec55d0cf82e51014288",
+					"parentId": "668bc5cd834c88e06b08b6b0",
+					"slotId": "Helmet_top"
+				},
+				{
+					"_id": "cd8cf8db8a6572b02eb24065",
+					"_tpl": "655200ba0ef76cf7be09d528",
+					"parentId": "668bc5cd834c88e06b08b6b0",
+					"slotId": "Helmet_back"
+				}
+			],
+			"_name": "DLP Tactical Extreme Helmet",
+			"_parent": "668bc5cd834c88e06b08b6b0",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6b7": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "66326bfd46817c660d015125",
+			"_id": "668bc5cd834c88e06b08b6b7",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6b8",
+					"_tpl": "66326bfd46817c660d015125"
+				},
+				{
+					"_id": "ea35ffbb9a5c888bd3dad6e4",
+					"_tpl": "6551fec55d0cf82e51014288",
+					"parentId": "668bc5cd834c88e06b08b6b8",
+					"slotId": "Helmet_top"
+				},
+				{
+					"_id": "cd8cf8db8a6572b02eb24065",
+					"_tpl": "655200ba0ef76cf7be09d528",
+					"parentId": "668bc5cd834c88e06b08b6b8",
+					"slotId": "Helmet_back"
+				}
+			],
+			"_name": "DLP Tactical Extreme Helmet",
+			"_parent": "668bc5cd834c88e06b08b6b8",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6b9": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "6673b1ac5cae0610f1079d7e",
+			"_id": "668bc5cd834c88e06b08b6b9",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6ba",
+					"_tpl": "6673b1ac5cae0610f1079d7e"
+				},
+				{
+					"_id": "6723675e471c8c905932e5d9",
+					"_tpl": "657baaf0b7e9ca9a02045c02",
+					"parentId": "668bc5cd834c88e06b08b6ba",
+					"slotId": "Helmet_top"
+				},
+				{
+					"_id": "79d109ba24b7ceceb66fda8a",
+					"_tpl": "657bab6ec6f689d3a205b85f",
+					"parentId": "668bc5cd834c88e06b08b6ba",
+					"slotId": "Helmet_back"
+				}
+			],
+			"_name": "Tactical Bump Helmet (Alpine)",
+			"_parent": "668bc5cd834c88e06b08b6ba",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6bb": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "66326bfd46817c660d01512c",
+			"_id": "668bc5cd834c88e06b08b6bb",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6bc",
+					"_tpl": "66326bfd46817c660d01512c"
+				},
+				{
+					"_id": "6723675e471c8c905932e5d9",
+					"_tpl": "657baaf0b7e9ca9a02045c02",
+					"parentId": "668bc5cd834c88e06b08b6bc",
+					"slotId": "Helmet_top"
+				},
+				{
+					"_id": "79d109ba24b7ceceb66fda8a",
+					"_tpl": "657bab6ec6f689d3a205b85f",
+					"parentId": "668bc5cd834c88e06b08b6bc",
+					"slotId": "Helmet_back"
+				}
+			],
+			"_name": "Tactical Bump Helmet (Grey)",
+			"_parent": "668bc5cd834c88e06b08b6bc",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6bd": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "66326bfd46817c660d015136",
+			"_id": "668bc5cd834c88e06b08b6bd",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6be",
+					"_tpl": "66326bfd46817c660d015136"
+				},
+				{
+					"_id": "6723675e471c8c905932e5d9",
+					"_tpl": "657baaf0b7e9ca9a02045c02",
+					"parentId": "668bc5cd834c88e06b08b6be",
+					"slotId": "Helmet_top"
+				},
+				{
+					"_id": "79d109ba24b7ceceb66fda8a",
+					"_tpl": "657bab6ec6f689d3a205b85f",
+					"parentId": "668bc5cd834c88e06b08b6be",
+					"slotId": "Helmet_back"
+				}
+			],
+			"_name": "Tactical Bump Helmet (Black)",
+			"_parent": "668bc5cd834c88e06b08b6be",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6b3": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "66326bfd46817c660d015133",
+			"_id": "668bc5cd834c88e06b08b6b3",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6b4",
+					"_tpl": "66326bfd46817c660d015133"
+				},
+				{
+					"_id": "253ab50c64cc87fe99066b8d",
+					"_tpl": "6551fec55d0cf82e51014288",
+					"parentId": "668bc5cd834c88e06b08b6b4",
+					"slotId": "Helmet_top"
+				},
+				{
+					"_id": "894f4cb6fe97c893cde92df8",
+					"_tpl": "655200ba0ef76cf7be09d528",
+					"parentId": "668bc5cd834c88e06b08b6b4",
+					"slotId": "Helmet_back"
+				}
+			],
+			"_name": "Tactical 'Kasda' BALLISTIC SL (Olive)",
+			"_parent": "668bc5cd834c88e06b08b6b4",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6b5": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "66326bfd46817c660d01512b",
+			"_id": "668bc5cd834c88e06b08b6b5",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6b6",
+					"_tpl": "66326bfd46817c660d01512b"
+				},
+				{
+					"_id": "53d8c0e700da8021372ea546",
+					"_tpl": "657fa009d4caf976440afe3a",
+					"parentId": "668bc5cd834c88e06b08b6b6",
+					"slotId": "Helmet_top"
+				},
+				{
+					"_id": "b673b22698de96f6154f31dc",
+					"_tpl": "657fa04ac6679fefb3051e24",
+					"parentId": "668bc5cd834c88e06b08b6b6",
+					"slotId": "Helmet_back"
+				},
+				{
+					"_id": "4e27a76507fdbcda4185b7d2",
+					"_tpl": "657fa07387e11c61f70bface",
+					"parentId": "668bc5cd834c88e06b08b6b6",
+					"slotId": "Helmet_ears"
+				}
+			],
+			"_name": "Ops-Core FAST Carbon Low Cut Helmet (Roze)",
+			"_parent": "668bc5cd834c88e06b08b6b6",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6bf": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "66326bfd46817c660d015127",
+			"_id": "668bc5cd834c88e06b08b6bf",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6c0",
+					"_tpl": "66326bfd46817c660d015127"
+				},
+				{
+					"_id": "7f10f2c804601d79ed610ae5",
+					"_tpl": "6551fec55d0cf82e51014288",
+					"parentId": "668bc5cd834c88e06b08b6c0",
+					"slotId": "Helmet_top"
+				},
+				{
+					"_id": "c77db5e601804dca1ffd75d7",
+					"_tpl": "655200ba0ef76cf7be09d528",
+					"parentId": "668bc5cd834c88e06b08b6c0",
+					"slotId": "Helmet_back"
+				}
+			],
+			"_name": "Legacy Safety Special Ops Ballistic Helmet FAST",
+			"_parent": "668bc5cd834c88e06b08b6c0",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6c1": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "66326bfd46817c660d01514c",
+			"_id": "668bc5cd834c88e06b08b6c1",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6c2",
+					"_tpl": "66326bfd46817c660d01514c"
+				},
+				{
+					"_id": "7f10f2c804601d79ed610ae5",
+					"_tpl": "6551fec55d0cf82e51014288",
+					"parentId": "668bc5cd834c88e06b08b6c2",
+					"slotId": "Helmet_top"
+				},
+				{
+					"_id": "c77db5e601804dca1ffd75d7",
+					"_tpl": "655200ba0ef76cf7be09d528",
+					"parentId": "668bc5cd834c88e06b08b6c2",
+					"slotId": "Helmet_back"
+				}
+			],
+			"_name": "ACH High Cut Tactical Helmet",
+			"_parent": "668bc5cd834c88e06b08b6c2",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6c5": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "668bc5cd834c88e06b08b6a9",
+			"_id": "668bc5cd834c88e06b08b6c5",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6c6",
+					"_tpl": "668bc5cd834c88e06b08b6a9"
+				},
+				{
+					"_id": "544a7a8edaf1d04bfcd9d345",
+					"_tpl": "65711b07a330b8c9060f7b01",
+					"parentId": "668bc5cd834c88e06b08b6c6",
+					"slotId": "Helmet_top",
+					"upd": {}
+				},
+				{
+					"_id": "96ba81fb4968fd032b364bd4",
+					"_tpl": "65711b489eb8c145180dbb9d",
+					"parentId": "668bc5cd834c88e06b08b6c6",
+					"slotId": "Helmet_back",
+					"upd": {}
+				},
+				{
+					"_id": "90a8043324370f312ad84b9c",
+					"_tpl": "65711b9b65daf6aa960c9b1b",
+					"parentId": "668bc5cd834c88e06b08b6c6",
+					"slotId": "helmet_eyes",
+					"upd": {}
+				},
+				{
+					"_id": "fb96511d2165658f1a95b0dc",
+					"_tpl": "65711bc79eb8c145180dbba1",
+					"parentId": "668bc5cd834c88e06b08b6c6",
+					"slotId": "helmet_jaw",
+					"upd": {}
+				},
+				{
+					"_id": "b7b0ae8fbadba12304088efb",
+					"_tpl": "65711b706d197c216005b31c",
+					"parentId": "668bc5cd834c88e06b08b6c6",
+					"slotId": "Helmet_ears",
+					"upd": {}
+				}
+			],
+			"_name": "Devronin Alpine",
+			"_parent": "668bc5cd834c88e06b08b6c6",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6c7": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "668bc5cd834c88e06b08b6aa",
+			"_id": "668bc5cd834c88e06b08b6c7",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6c8",
+					"_tpl": "668bc5cd834c88e06b08b6aa"
+				},
+				{
+					"_id": "544a7a8edaf1d04bfcd9d345",
+					"_tpl": "65711b07a330b8c9060f7b01",
+					"parentId": "668bc5cd834c88e06b08b6c8",
+					"slotId": "Helmet_top",
+					"upd": {}
+				},
+				{
+					"_id": "96ba81fb4968fd032b364bd4",
+					"_tpl": "65711b489eb8c145180dbb9d",
+					"parentId": "668bc5cd834c88e06b08b6c8",
+					"slotId": "Helmet_back",
+					"upd": {}
+				},
+				{
+					"_id": "90a8043324370f312ad84b9c",
+					"_tpl": "65711b9b65daf6aa960c9b1b",
+					"parentId": "668bc5cd834c88e06b08b6c8",
+					"slotId": "helmet_eyes",
+					"upd": {}
+				},
+				{
+					"_id": "fb96511d2165658f1a95b0dc",
+					"_tpl": "65711bc79eb8c145180dbba1",
+					"parentId": "668bc5cd834c88e06b08b6c8",
+					"slotId": "helmet_jaw",
+					"upd": {}
+				},
+				{
+					"_id": "b7b0ae8fbadba12304088efb",
+					"_tpl": "65711b706d197c216005b31c",
+					"parentId": "668bc5cd834c88e06b08b6c8",
+					"slotId": "Helmet_ears",
+					"upd": {}
+				}
+			],
+			"_name": "Devronin Black",
+			"_parent": "668bc5cd834c88e06b08b6c8",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6b1": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "66326bfd46817c660d01512a",
+			"_id": "668bc5cd834c88e06b08b6b1",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6b2",
+					"_tpl": "66326bfd46817c660d01512a"
+				},
+				{
+					"_id": "b793250e8177a57ccc0720ab",
+					"_tpl": "6551fec55d0cf82e51014288",
+					"parentId": "668bc5cd834c88e06b08b6b2",
+					"slotId": "Helmet_top"
+				},
+				{
+					"_id": "0ef2686211f4a5b7fc372963",
+					"_tpl": "655200ba0ef76cf7be09d528",
+					"parentId": "668bc5cd834c88e06b08b6b2",
+					"slotId": "Helmet_back"
+				}
+			],
+			"_name": "Ops-Core FAST Carbon High Cut Helmet (Tan)",
+			"_parent": "668bc5cd834c88e06b08b6b2",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6c9": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "66326bfd46817c660d015135",
+			"_id": "668bc5cd834c88e06b08b6c9",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6ca",
+					"_tpl": "66326bfd46817c660d015135"
+				},
+				{
+					"_id": "8282d1460b2b95b34040461e",
+					"_tpl": "6570e5100b57c03ec90b970a",
+					"parentId": "668bc5cd834c88e06b08b6ca",
+					"slotId": "Soft_armor_front"
+				},
+				{
+					"_id": "7794785afd817339ab1e2a0a",
+					"_tpl": "65732df4d0acf75aea06c87b",
+					"parentId": "668bc5cd834c88e06b08b6ca",
+					"slotId": "Soft_armor_back"
+				},
+				{
+					"_id": "45829bb98b8222416b6498ed",
+					"_tpl": "6570e5674cc0d2ab1e05edbb",
+					"parentId": "668bc5cd834c88e06b08b6ca",
+					"slotId": "Soft_armor_left"
+				},
+				{
+					"_id": "a114a36cb354f5c6a826a803",
+					"_tpl": "6570e59b0b57c03ec90b970e",
+					"parentId": "668bc5cd834c88e06b08b6ca",
+					"slotId": "soft_armor_right"
+				},
+				{
+					"_id": "ec46bd04b80a5a8cfc9ffbd3",
+					"_tpl": "656f9fa0498d1b7e3e071d98",
+					"parentId": "668bc5cd834c88e06b08b6ca",
+					"slotId": "Front_plate"
+				},
+				{
+					"_id": "60383e5aa115aea63891e416",
+					"_tpl": "656f9fa0498d1b7e3e071d98",
+					"parentId": "668bc5cd834c88e06b08b6ca",
+					"slotId": "Back_plate"
+				},
+				{
+					"_id": "199342e344a53136ef15b5c2",
+					"_tpl": "64afd81707e2cf40e903a316",
+					"parentId": "668bc5cd834c88e06b08b6ca",
+					"slotId": "Right_side_plate"
+				},
+				{
+					"_id": "d0023c1fbc257cc22291a937",
+					"_tpl": "64afd81707e2cf40e903a316",
+					"parentId": "668bc5cd834c88e06b08b6ca",
+					"slotId": "Left_side_plate"
+				}
+			],
+			"_name": "KOMBAT Viking Molle Plate Carrier",
+			"_parent": "668bc5cd834c88e06b08b6ca",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6cb": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "66326bfd46817c660d015137",
+			"_id": "668bc5cd834c88e06b08b6cb",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6cc",
+					"_tpl": "66326bfd46817c660d015137"
+				},
+				{
+					"_id": "d74d11c4497792217e631db8",
+					"_tpl": "6570e5100b57c03ec90b970a",
+					"parentId": "668bc5cd834c88e06b08b6cc",
+					"slotId": "Soft_armor_front"
+				},
+				{
+					"_id": "8fbf14b7360ae0ab14ab5e1a",
+					"_tpl": "65732df4d0acf75aea06c87b",
+					"parentId": "668bc5cd834c88e06b08b6cc",
+					"slotId": "Soft_armor_back"
+				},
+				{
+					"_id": "ae03770a753543e132e07e46",
+					"_tpl": "6570e5674cc0d2ab1e05edbb",
+					"parentId": "668bc5cd834c88e06b08b6cc",
+					"slotId": "Soft_armor_left"
+				},
+				{
+					"_id": "d6d45ebbaeaecb981d492017",
+					"_tpl": "6570e59b0b57c03ec90b970e",
+					"parentId": "668bc5cd834c88e06b08b6cc",
+					"slotId": "soft_armor_right"
+				},
+				{
+					"_id": "f1725cc4fcd4c0c831d734f7",
+					"_tpl": "656f9fa0498d1b7e3e071d98",
+					"parentId": "668bc5cd834c88e06b08b6cc",
+					"slotId": "Front_plate"
+				},
+				{
+					"_id": "0a974290866e60d5823722a3",
+					"_tpl": "656f9fa0498d1b7e3e071d98",
+					"parentId": "668bc5cd834c88e06b08b6cc",
+					"slotId": "Back_plate"
+				},
+				{
+					"_id": "50e71a2753f7dc99db29f922",
+					"_tpl": "64afd81707e2cf40e903a316",
+					"parentId": "668bc5cd834c88e06b08b6cc",
+					"slotId": "Right_side_plate"
+				},
+				{
+					"_id": "803c0f4c1385ab268a310528",
+					"_tpl": "64afd81707e2cf40e903a316",
+					"parentId": "668bc5cd834c88e06b08b6cc",
+					"slotId": "Left_side_plate"
+				}
+			],
+			"_name": "Shellback Tactical Banshee Plate Carrier",
+			"_parent": "668bc5cd834c88e06b08b6cc",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6cd": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "66326bfd46817c660d015138",
+			"_id": "668bc5cd834c88e06b08b6cd",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6ce",
+					"_tpl": "66326bfd46817c660d015138"
+				},
+				{
+					"_id": "315440c8fd03169b5dd7f30c",
+					"_tpl": "6570e5100b57c03ec90b970a",
+					"parentId": "668bc5cd834c88e06b08b6ce",
+					"slotId": "Soft_armor_front"
+				},
+				{
+					"_id": "2540817e3b0ad83e2ad6d737",
+					"_tpl": "65732df4d0acf75aea06c87b",
+					"parentId": "668bc5cd834c88e06b08b6ce",
+					"slotId": "Soft_armor_back"
+				},
+				{
+					"_id": "00ebfde7163ce53744c9bd3a",
+					"_tpl": "6570e5674cc0d2ab1e05edbb",
+					"parentId": "668bc5cd834c88e06b08b6ce",
+					"slotId": "Soft_armor_left"
+				},
+				{
+					"_id": "4fce8d16a4fd7ab4a4916884",
+					"_tpl": "6570e59b0b57c03ec90b970e",
+					"parentId": "668bc5cd834c88e06b08b6ce",
+					"slotId": "soft_armor_right"
+				},
+				{
+					"_id": "843fec5545c208636acbbeca",
+					"_tpl": "656f9fa0498d1b7e3e071d98",
+					"parentId": "668bc5cd834c88e06b08b6ce",
+					"slotId": "Front_plate"
+				},
+				{
+					"_id": "e3b6d02c194dc094c47c52d9",
+					"_tpl": "656f9fa0498d1b7e3e071d98",
+					"parentId": "668bc5cd834c88e06b08b6ce",
+					"slotId": "Back_plate"
+				},
+				{
+					"_id": "773425abfd8d6ed6a9324d4a",
+					"_tpl": "64afd81707e2cf40e903a316",
+					"parentId": "668bc5cd834c88e06b08b6ce",
+					"slotId": "Right_side_plate"
+				},
+				{
+					"_id": "233b4c1bc0c809eaf08b5244",
+					"_tpl": "64afd81707e2cf40e903a316",
+					"parentId": "668bc5cd834c88e06b08b6ce",
+					"slotId": "Left_side_plate"
+				},
+				{
+					"_id": "28f1fdd369c23f09e4b24d8d",
+					"_tpl": "6572eb865b5eac12f10a03ee",
+					"parentId": "668bc5cd834c88e06b08b6ce",
+					"slotId": "Groin"
+				}
+			],
+			"_name": "Sentry Plate Carrier",
+			"_parent": "668bc5cd834c88e06b08b6ce",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6cf": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "66326bfd46817c660d015139",
+			"_id": "668bc5cd834c88e06b08b6cf",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6d0",
+					"_tpl": "66326bfd46817c660d015139"
+				},
+				{
+					"_id": "05015e5b112576236fcb2aa9",
+					"_tpl": "6570e83223c1f638ef0b0ede",
+					"parentId": "668bc5cd834c88e06b08b6d0",
+					"slotId": "Soft_armor_front"
+				},
+				{
+					"_id": "1385facbde7900e7c15616fe",
+					"_tpl": "6570e87c23c1f638ef0b0ee2",
+					"parentId": "668bc5cd834c88e06b08b6d0",
+					"slotId": "Soft_armor_back"
+				},
+				{
+					"_id": "91c7aabae48ffbcfbfe6df2b",
+					"_tpl": "6570e90b3a5689d85f08db97",
+					"parentId": "668bc5cd834c88e06b08b6d0",
+					"slotId": "Groin"
+				},
+				{
+					"_id": "823a31e83811572720416875",
+					"_tpl": "656f9fa0498d1b7e3e071d98",
+					"parentId": "668bc5cd834c88e06b08b6d0",
+					"slotId": "Front_plate"
+				},
+				{
+					"_id": "f892079ef49830884dc628f3",
+					"_tpl": "656f9fa0498d1b7e3e071d98",
+					"parentId": "668bc5cd834c88e06b08b6d0",
+					"slotId": "Back_plate"
+				}
+			],
+			"_name": "Sentry Plate Carrier",
+			"_parent": "668bc5cd834c88e06b08b6d0",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6d1": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "66326bfd46817c660d01513b",
+			"_id": "668bc5cd834c88e06b08b6d1",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6d2",
+					"_tpl": "66326bfd46817c660d01513b"
+				},
+				{
+					"_id": "1fc93c364814e70b147e33eb",
+					"_tpl": "6572eb0e55beba16bc04079f",
+					"parentId": "668bc5cd834c88e06b08b6d2",
+					"slotId": "Soft_armor_front"
+				},
+				{
+					"_id": "a0d640be66169f62896f7605",
+					"_tpl": "6572eb1b04ee6483ef039882",
+					"parentId": "668bc5cd834c88e06b08b6d2",
+					"slotId": "Soft_armor_back"
+				},
+				{
+					"_id": "6fd8c358926f89a0032a6845",
+					"_tpl": "6572eb3004ee6483ef039886",
+					"parentId": "668bc5cd834c88e06b08b6d2",
+					"slotId": "Soft_armor_left"
+				},
+				{
+					"_id": "a49a441bd64c84b161c92ae6",
+					"_tpl": "6572eb3b04ee6483ef03988a",
+					"parentId": "668bc5cd834c88e06b08b6d2",
+					"slotId": "soft_armor_right"
+				},
+				{
+					"_id": "f5e4e1fb80e78fcdc1ed09a6",
+					"_tpl": "6572eb865b5eac12f10a03ee",
+					"parentId": "668bc5cd834c88e06b08b6d2",
+					"slotId": "Groin"
+				},
+				{
+					"_id": "ba04d3c82e9e178b1558825e",
+					"_tpl": "656f9fa0498d1b7e3e071d98",
+					"parentId": "668bc5cd834c88e06b08b6d2",
+					"slotId": "Front_plate"
+				},
+				{
+					"_id": "296225bb0b3822e7c5d569ea",
+					"_tpl": "656f9fa0498d1b7e3e071d98",
+					"parentId": "668bc5cd834c88e06b08b6d2",
+					"slotId": "Back_plate"
+				}
+			],
+			"_name": "MSV-GEN II",
+			"_parent": "668bc5cd834c88e06b08b6d2",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6d3": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "66326bfd46817c660d015149",
+			"_id": "668bc5cd834c88e06b08b6d3",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6d4",
+					"_tpl": "66326bfd46817c660d015149"
+				},
+				{
+					"_id": "5cb99a98632cdf58435d628b",
+					"_tpl": "6570e5100b57c03ec90b970a",
+					"parentId": "668bc5cd834c88e06b08b6d4",
+					"slotId": "Soft_armor_front"
+				},
+				{
+					"_id": "ada0c9d863a4384dbeabfbae",
+					"_tpl": "65732df4d0acf75aea06c87b",
+					"parentId": "668bc5cd834c88e06b08b6d4",
+					"slotId": "Soft_armor_back"
+				},
+				{
+					"_id": "8e32700d5bd5181bed87c410",
+					"_tpl": "6570e5674cc0d2ab1e05edbb",
+					"parentId": "668bc5cd834c88e06b08b6d4",
+					"slotId": "Soft_armor_left"
+				},
+				{
+					"_id": "59b674c3de98b012c66c6c25",
+					"_tpl": "6570e59b0b57c03ec90b970e",
+					"parentId": "668bc5cd834c88e06b08b6d4",
+					"slotId": "soft_armor_right"
+				},
+				{
+					"_id": "5194d2e61145468a8b9c5f4e",
+					"_tpl": "656f9fa0498d1b7e3e071d98",
+					"parentId": "668bc5cd834c88e06b08b6d4",
+					"slotId": "Front_plate"
+				},
+				{
+					"_id": "9a45c4e7b1968b78a0be0689",
+					"_tpl": "656f9fa0498d1b7e3e071d98",
+					"parentId": "668bc5cd834c88e06b08b6d4",
+					"slotId": "Back_plate"
+				},
+				{
+					"_id": "d17e68ebe23b693128f25c57",
+					"_tpl": "64afd81707e2cf40e903a316",
+					"parentId": "668bc5cd834c88e06b08b6d4",
+					"slotId": "Right_side_plate"
+				},
+				{
+					"_id": "eafc93d40a7f52e7a4d9b717",
+					"_tpl": "64afd81707e2cf40e903a316",
+					"parentId": "668bc5cd834c88e06b08b6d4",
+					"slotId": "Left_side_plate"
+				},
+				{
+					"_id": "514396d7ed6b251ea4bb82ea",
+					"_tpl": "6572eb865b5eac12f10a03ee",
+					"parentId": "668bc5cd834c88e06b08b6d4",
+					"slotId": "Groin"
+				}
+			],
+			"_name": "JPC 2.0",
+			"_parent": "668bc5cd834c88e06b08b6d4",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6d5": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "66326bfd46817c660d015151",
+			"_id": "668bc5cd834c88e06b08b6d5",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6d6",
+					"_tpl": "66326bfd46817c660d015151"
+				},
+				{
+					"_id": "e8a2a3fe8691e1ebb0fa4cb3",
+					"_tpl": "6570e83223c1f638ef0b0ede",
+					"parentId": "668bc5cd834c88e06b08b6d6",
+					"slotId": "Soft_armor_front"
+				},
+				{
+					"_id": "36ca539967e1b336f943d438",
+					"_tpl": "6570e87c23c1f638ef0b0ee2",
+					"parentId": "668bc5cd834c88e06b08b6d6",
+					"slotId": "Soft_armor_back"
+				},
+				{
+					"_id": "3b37c99b397cc58706335a98",
+					"_tpl": "6570e90b3a5689d85f08db97",
+					"parentId": "668bc5cd834c88e06b08b6d6",
+					"slotId": "Groin"
+				},
+				{
+					"_id": "80ab7f413c8444fb6c3f3379",
+					"_tpl": "656f9fa0498d1b7e3e071d98",
+					"parentId": "668bc5cd834c88e06b08b6d6",
+					"slotId": "Front_plate"
+				},
+				{
+					"_id": "98b92aded92db5030a154c85",
+					"_tpl": "656f9fa0498d1b7e3e071d98",
+					"parentId": "668bc5cd834c88e06b08b6d6",
+					"slotId": "Back_plate"
+				}
+			],
+			"_name": "5.11 TACTEC Plate Carrier",
+			"_parent": "668bc5cd834c88e06b08b6d6",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6d7": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "66326bfd46817c660d015145",
+			"_id": "668bc5cd834c88e06b08b6d7",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6d8",
+					"_tpl": "66326bfd46817c660d015145"
+				},
+				{
+					"_id": "69ca1de4643dcc70f2656d33",
+					"_tpl": "6570e83223c1f638ef0b0ede",
+					"parentId": "668bc5cd834c88e06b08b6d8",
+					"slotId": "Soft_armor_front"
+				},
+				{
+					"_id": "24d874217f23093215d723ad",
+					"_tpl": "6570e87c23c1f638ef0b0ee2",
+					"parentId": "668bc5cd834c88e06b08b6d8",
+					"slotId": "Soft_armor_back"
+				},
+				{
+					"_id": "8e7bd8a5daf4d4abead6889b",
+					"_tpl": "6570e90b3a5689d85f08db97",
+					"parentId": "668bc5cd834c88e06b08b6d8",
+					"slotId": "Groin"
+				},
+				{
+					"_id": "79b27d4a9ac042f73efd9002",
+					"_tpl": "656f9fa0498d1b7e3e071d98",
+					"parentId": "668bc5cd834c88e06b08b6d8",
+					"slotId": "Front_plate"
+				},
+				{
+					"_id": "8468a028eb51cea177bafb30",
+					"_tpl": "656f9fa0498d1b7e3e071d98",
+					"parentId": "668bc5cd834c88e06b08b6d8",
+					"slotId": "Back_plate"
+				}
+			],
+			"_name": "OPENLAND HEXAGON Plate Carrier",
+			"_parent": "668bc5cd834c88e06b08b6d8",
+			"_type": "Preset"
+		},
+		"668bc5cd834c88e06b08b6d9": {
+			"_changeWeaponName": false,
+			"_encyclopedia": "66326bfd46817c660d015152",
+			"_id": "668bc5cd834c88e06b08b6d9",
+			"_items": [
+				{
+					"_id": "668bc5cd834c88e06b08b6da",
+					"_tpl": "66326bfd46817c660d015152"
+				},
+				{
+					"_id": "3cbd97c6d4f01447173d8a80",
+					"_tpl": "6570e83223c1f638ef0b0ede",
+					"parentId": "668bc5cd834c88e06b08b6da",
+					"slotId": "Soft_armor_front"
+				},
+				{
+					"_id": "a44648ef5fc69c385fd2f646",
+					"_tpl": "6570e87c23c1f638ef0b0ee2",
+					"parentId": "668bc5cd834c88e06b08b6da",
+					"slotId": "Soft_armor_back"
+				},
+				{
+					"_id": "a5e72631f86ab30fbc8997d1",
+					"_tpl": "6570e90b3a5689d85f08db97",
+					"parentId": "668bc5cd834c88e06b08b6da",
+					"slotId": "Groin"
+				},
+				{
+					"_id": "207f8caa51c31b10698fd79f",
+					"_tpl": "656f9fa0498d1b7e3e071d98",
+					"parentId": "668bc5cd834c88e06b08b6da",
+					"slotId": "Front_plate"
+				},
+				{
+					"_id": "4ce8c4a3873555dea5a2f4a1",
+					"_tpl": "656f9fa0498d1b7e3e071d98",
+					"parentId": "668bc5cd834c88e06b08b6da",
+					"slotId": "Back_plate"
+				}
+			],
+			"_name": "TACTEC Plate Carrier",
+			"_parent": "668bc5cd834c88e06b08b6da",
+			"_type": "Preset"
+		}
+	},
+	"config": {
+		"Mastering": [],
+		"Health": {
+			"Effects": {
+				"Stimulator": {
+					"Buffs": {}
+				}
+			}
+		}
+	}
+}
