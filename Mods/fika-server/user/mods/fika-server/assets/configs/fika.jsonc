@@ -5,10 +5,25 @@
         "dynamicVExfils": false,
         "allowFreeCam": false,
         "allowItemSending": true,
-        "forceSaveOnDeath": false
+        "blacklistedItems": [],
+        "forceSaveOnDeath": false,
+        "mods": {
+            "required": [],
+            "optional": []
+        },
+        "useInertia": true,
+        "sharedQuestProgression": false
     },
     "server": {
         "giftedItemsLoseFIR": false,
-        "launcherListAllProfiles": false
+        "launcherListAllProfiles": false,
+        "sessionTimeout": 5,
+        "showDevProfile": false,
+        "showNonStandardProfile": false
+    },
+    "natPunchServer": {
+        "enable": false,
+        "port": 6790,
+        "natIntroduceAmount": 1
     }
 }

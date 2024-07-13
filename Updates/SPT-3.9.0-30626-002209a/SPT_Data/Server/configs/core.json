@@ -1,0 +1,38 @@
+{
+    "sptVersion": "3.9.0",
+    "projectName": "SPT",
+    "compatibleTarkovVersion": "0.14.9.30626",
+    "serverName": "SPT Server",
+    "profileSaveIntervalSeconds": 15,
+    "sptFriendNickname": "SPT",
+    "allowProfileWipe": true,
+    "bsgLogging": {
+        "verbosity": 6,
+        "sendToServer": false
+    },
+    "release": {
+        "betaDisclaimerTimeoutDelay": 30
+    },
+    "fixes": {
+        "fixShotgunDispersion": true,
+        "removeModItemsFromProfile": false,
+        "fixProfileBreakingInventoryItemIssues": false
+    },
+    "features": {
+        "autoInstallModDependencies": false,
+        "compressProfile": false,
+        "chatbotFeatures": {
+            "sptFriendEnabled": true,
+            "commandoEnabled": true,
+            "commandoFeatures": {
+                "giveCommandEnabled": true
+            },
+            "commandUseLimits": {
+                "StashRows": 5
+            }
+        }
+    },
+    "customWatermarkLocaleKeys": [],
+    "commit": "002209a992253888d025344f831b28077a5210d1",
+    "buildTime": 1720291962757
+}
