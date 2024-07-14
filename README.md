@@ -33,3 +33,4 @@ Refer to [mpt-client](https://github.com/IAMBUDE/mpt-client) for client installa
 - [x] [Scorpion](https://hub.sp-tarkov.com/files/file/1869-beta-scorpion/)
 - [x] [Artem](https://hub.sp-tarkov.com/files/file/1410-artem/)
 - [x] [Headshot Damage Redirection](https://hub.sp-tarkov.com/files/file/1809-headshot-damage-redirection-hdr)
+- [x] [Louder Supressors](https://hub.sp-tarkov.com/files/file/1954-louder-suppressors)
