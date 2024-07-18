@@ -1,0 +1,85 @@
+{
+	"manifest": [
+		{
+			"key": "assets/content/items/mods/scopes/scope_base_aimpooint_comp_m4.bundle",
+			"path": "BepInEx/plugins/SamSWAT.ReflexSightsRework/bundles/assets/content/items/mods/scopes/scope_base_aimpooint_comp_m4.bundle",
+			"dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/systems/effects/opticsight/opticsightsmasks.bundle",
+				"cubemaps",
+				"shaders"
+			]
+		},
+		{
+			"key": "assets/content/items/mods/scopes/scope_all_holosun_hs401g5.bundle",
+			"path": "BepInEx/plugins/SamSWAT.ReflexSightsRework/bundles/assets/content/items/mods/scopes/scope_all_holosun_hs401g5.bundle",
+			"dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/textures/holemanager/glow_particle_bright.bundle",
+				"assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/systems/effects/collimator.bundle",
+				"assets/systems/effects/laserbeam/laser.bundle",
+				"assets/systems/effects/multiflare/multiflare.bundle",
+				"assets/systems/effects/nightvision.bundle",
+				"assets/systems/effects/opticsight/opticsightsmasks.bundle",
+				"cubemaps",
+				"shaders"
+			]
+		},
+		{
+			"key": "assets/content/items/mods/scopes/scope_all_leapers_utg_38_ita_1x30.bundle",
+			"path": "BepInEx/plugins/SamSWAT.ReflexSightsRework/bundles/assets/content/items/mods/scopes/scope_all_leapers_utg_38_ita_1x30.bundle",
+			"dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/systems/effects/collimator.bundle",
+				"cubemaps",
+				"shaders"
+			]
+		},
+		{
+			"key": "assets/content/items/mods/scopes/scope_base_aimpoint_micro_t1.bundle",
+			"path": "BepInEx/plugins/SamSWAT.ReflexSightsRework/bundles/assets/content/items/mods/scopes/scope_base_aimpoint_micro_t1.bundle",
+			"dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/systems/effects/opticsight/opticsightsmasks.bundle",
+				"cubemaps",
+				"shaders"
+			]
+		},
+		{
+			"key": "assets/content/items/mods/scopes/scope_base_aimpoint_pro.bundle",
+			"path": "BepInEx/plugins/SamSWAT.ReflexSightsRework/bundles/assets/content/items/mods/scopes/scope_base_aimpoint_pro.bundle",
+			"dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/systems/effects/opticsight/opticsightsmasks.bundle",
+				"cubemaps",
+				"shaders"
+			]
+		},
+		{
+			"key": "assets/content/items/mods/scopes/scope_dovetail_belomo_pk_aa.bundle",
+			"path": "BepInEx/plugins/SamSWAT.ReflexSightsRework/bundles/assets/content/items/mods/scopes/scope_dovetail_belomo_pk_aa.bundle",
+			"dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/systems/effects/opticsight/opticsightsmasks.bundle",
+				"cubemaps",
+				"shaders"
+			]
+		},
+		{
+			"key": "assets/content/items/mods/scopes/scope_base_sig_romeo_4.bundle",
+			"path": "BepInEx/plugins/SamSWAT.ReflexSightsRework/bundles/assets/content/items/mods/scopes/scope_base_sig_romeo_4.bundle",
+			"dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/systems/effects/opticsight/opticsightsmasks.bundle",
+				"cubemaps",
+				"shaders"
+			]
+		}
+	]
+}
