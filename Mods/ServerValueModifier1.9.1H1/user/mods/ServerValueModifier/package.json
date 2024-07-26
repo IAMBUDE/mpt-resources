@@ -1,0 +1,9 @@
+{
+	"name": "SVM",
+	"author": "GhostFenixx",
+	"version": "1.9.1",
+	"sptVersion": "3.9.x",
+	"license": "CC BY-NC-ND",
+	"devdependencies": {},
+	"main": "src/SVM.js"
+}

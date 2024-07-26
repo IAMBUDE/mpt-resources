@@ -1,0 +1,66 @@
+[
+  {
+    "RandomScenarioConfig": "Live Like (Random)",
+    "Presets": [
+      {
+        "Name": "live-like",
+        "Weight": 50
+      },
+      {
+        "Name": "live-like-alt",
+        "Weight": 50
+      }
+    ]
+  },
+  {
+    "RandomScenarioConfig": "Starting PMCs Only (Random)",
+    "Presets": [
+      {
+        "Name": "starting-pmcs-only-live-like",
+        "Weight": 50
+      },
+      {
+        "Name": "starting-pmcs-only-live-like-alt",
+        "Weight": 50
+      },
+      {
+        "Name": "starting-pmcs-only-morescavs",
+        "Weight": 25
+      }
+    ]
+  },
+  {
+    "RandomScenarioConfig": "A Whole Lotta SCAVs (Random)",
+    "Presets": [
+      {
+        "Name": "morescavs",
+        "Weight": 50
+      },
+      {
+        "Name": "starting-pmcs-only-morescavs",
+        "Weight": 25
+      }
+    ]
+  },
+  {
+    "RandomScenarioConfig": "Death Wish (Random)",
+    "Presets": [
+      {
+        "Name": "impossibleraids",
+        "Weight": 75
+      },
+      {
+        "Name": "crazyraids",
+        "Weight": 75
+      },
+      {
+        "Name": "morepmcs",
+        "Weight": 25
+      },
+      {
+        "Name": "morescavs",
+        "Weight": 25
+      }
+    ]
+  }
+]
