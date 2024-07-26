@@ -1,0 +1,34 @@
+{
+    "name": "Artem Equipment",
+    "version": "1.8.2",
+    "main": "src/mod.js",
+    "license": "Mighty_Condor - Backend:University of Illinois/NCSA Open Source License",
+    "author": "Crackbone",
+    "sptVersion": "3.9",
+    "isBundleMod": true,
+    "loadBefore": [],
+    "loadAfter": [
+        "AAAArtemTrader",
+        "ServerValueModifier"
+    ],
+    "incompatibilities": [],
+    "contributors": [
+        "Backend/mod.ts - Mighty_Condor",
+        "AAArtemEquipment - CRACKBONE"
+    ],
+    "scripts": {
+        "setup": "npm i",
+        "build": "node ./packageBuild.ts"
+    },
+    "devDependencies": {
+        "@types/node": "16.18.10",
+        "@typescript-eslint/eslint-plugin": "5.46.1",
+        "@typescript-eslint/parser": "5.46.1",
+        "bestzip": "2.2.1",
+        "eslint": "8.30.0",
+        "fs-extra": "11.1.0",
+        "glob": "8.0.3",
+        "tsyringe": "4.7.0",
+        "typescript": "4.9.4"
+    }
+}

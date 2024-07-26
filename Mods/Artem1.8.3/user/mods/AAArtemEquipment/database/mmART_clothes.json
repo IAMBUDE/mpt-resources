@@ -1,0 +1,1209 @@
+{
+    "testshirt Upper": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b644",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/testshirt.bundle"
+                }
+            }
+        }
+    },
+    "testshirt Hands": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b645",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/testhands.bundle"
+                }
+            }
+        }
+    },
+    "testshirt Upper Suit": {
+        "clone": "5f5f45df0bc58666c37e7832",
+        "sptID": "668bc5cd834c88e06b08b646",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b644",
+                "Hands": "668bc5cd834c88e06b08b645"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "Urban Shirt (Black)",
+                "ShortName": "Urban Shirt (Black)",
+                "Description": ""
+            }
+        }
+    },
+    "artem_top_1 Upper": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b649",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/artem_top_1.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_1 Hands": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b64a",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/artem_hands_1.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_1 Upper Suit": {
+        "clone": "5f5f45df0bc58666c37e7832",
+        "sptID": "668bc5cd834c88e06b08b64b",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b649",
+                "Hands": "668bc5cd834c88e06b08b64a"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "G4 COMBAT SHIRT (Grey)",
+                "ShortName": "G4 COMBAT SHIRT (Grey)",
+                "Description": ""
+            }
+        }
+    },
+    "artem_top_2 Upper": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b64c",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/artem_top_2.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_2 Hands": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b64d",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/artem_hands_2.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_2 Upper Suit": {
+        "clone": "5f5f45df0bc58666c37e7832",
+        "sptID": "668bc5cd834c88e06b08b660",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b64c",
+                "Hands": "668bc5cd834c88e06b08b64d"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "ACE GEN.2 WINTER COMBAT SHIRT (Dark)",
+                "ShortName": "ACE GEN.2 WINTER COMBAT SHIRT (Dark)",
+                "Description": ""
+            }
+        }
+    },
+    "artem_top_3 Upper": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b64f",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/artem_top_3.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_3 Hands": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b650",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/artem_hands_3.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_3 Upper Suit": {
+        "clone": "5f5f45df0bc58666c37e7832",
+        "sptID": "668bc5cd834c88e06b08b64e",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b64f",
+                "Hands": "668bc5cd834c88e06b08b650"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "G4 COMBAT SHIRT (Olive)",
+                "ShortName": "G4 COMBAT SHIRT (Olive)",
+                "Description": ""
+            }
+        }
+    },
+    "artem_top_4 Upper": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b651",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/artem_top_4.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_4 Hands": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b652",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/artem_hands_4.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_4 Upper Suit": {
+        "clone": "5f5f45df0bc58666c37e7832",
+        "sptID": "668bc5cd834c88e06b08b653",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b651",
+                "Hands": "668bc5cd834c88e06b08b652"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "G4 COMBAT SHIRT (Cyan)",
+                "ShortName": "G4 COMBAT SHIRT (Cyan)",
+                "Description": ""
+            }
+        }
+    },
+    "artem_top_5 Upper": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b654",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/artem_top_5.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_5 Hands": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b655",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/artem_hands_5.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_5 Upper Suit": {
+        "clone": "5f5f45df0bc58666c37e7832",
+        "sptID": "668bc5cd834c88e06b08b656",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b654",
+                "Hands": "668bc5cd834c88e06b08b655"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "COMBAT SHIRT (Black)",
+                "ShortName": "COMBAT SHIRT (Black)",
+                "Description": ""
+            }
+        }
+    },
+    "artem_top_6 Upper": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b657",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/artem_top_6.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_6 Hands": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b658",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/artem_hands_6.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_6 Upper Suit": {
+        "clone": "5f5f45df0bc58666c37e7832",
+        "sptID": "668bc5cd834c88e06b08b659",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b657",
+                "Hands": "668bc5cd834c88e06b08b658"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "IDF Combat Shirt (Black)",
+                "ShortName": "IDF Combat Shirt (Black)",
+                "Description": ""
+            }
+        }
+    },
+    "artem_top_7 Upper": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b65a",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/artem_top_7.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_7 Hands": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b65b",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/artem_hands_7.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_7 Upper Suit": {
+        "clone": "5f5f45df0bc58666c37e7832",
+        "sptID": "668bc5cd834c88e06b08b65c",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b65a",
+                "Hands": "668bc5cd834c88e06b08b65b"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "IDF Combat Shirt (Ranger Green)",
+                "ShortName": "IDF Combat Shirt (Ranger Green)",
+                "Description": ""
+            }
+        }
+    },
+    "artem_top_8 Upper": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b65d",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/artem_top_8.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_8 Hands": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b65e",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/artem_hands_8.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_8 Upper Suit": {
+        "clone": "5f5f45df0bc58666c37e7832",
+        "sptID": "668bc5cd834c88e06b08b65f",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b65d",
+                "Hands": "668bc5cd834c88e06b08b65e"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "G3 Combat Shirt (Ranger Green)",
+                "ShortName": "G3 Combat Shirt (Ranger Green)",
+                "Description": ""
+            }
+        }
+    },
+    "artem_top_9 Upper": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b661",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/artem_top_9.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_9 Hands": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b662",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/artem_hands_9.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_9 Upper Suit": {
+        "clone": "5f5f45df0bc58666c37e7832",
+        "sptID": "668bc5cd834c88e06b08b663",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b661",
+                "Hands": "668bc5cd834c88e06b08b662"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "G3 Combat Shirt (Multicamo)",
+                "ShortName": "G3 Combat Shirt (MC)",
+                "Description": ""
+            }
+        }
+    },
+    "ARTEM_WTT_TOP Upper": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b664",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/artem_wttshirt.bundle"
+                }
+            }
+        }
+    },
+    "ARTEM_WTT_TOP Hands": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b665",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/artem_wtthands.bundle"
+                }
+            }
+        }
+    },
+    "ARTEM_WTT_TOP Upper Suit": {
+        "clone": "5f5f45df0bc58666c37e7832",
+        "sptID": "668bc5cd834c88e06b08b666",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b664",
+                "Hands": "668bc5cd834c88e06b08b665"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "Welcome to Tarkov T-shirt",
+                "ShortName": "WTT T-shirt",
+                "Description": ""
+            }
+        }
+    },
+    "artem_top_10 Upper": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b667",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/artem_top_10.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_10 Hands": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b668",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/artem_atomhands.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_10 Upper Suit": {
+        "clone": "5f5f45df0bc58666c37e7832",
+        "sptID": "668bc5cd834c88e06b08b669",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b667",
+                "Hands": "668bc5cd834c88e06b08b668"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "Notch Lapel Suit (Black)",
+                "ShortName": "Notch Lapel Suit",
+                "Description": ""
+            }
+        }
+    },
+    "artem_top_12 Upper": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b66a",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/artem_top_12.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_12 Hands": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b66b",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/artem_hands_12.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_12 Upper Suit": {
+        "clone": "5f5f45df0bc58666c37e7832",
+        "sptID": "668bc5cd834c88e06b08b66c",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b66a",
+                "Hands": "668bc5cd834c88e06b08b66b"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "Black Hoodie - Cultists",
+                "ShortName": "Black Hoodie(Cultists)",
+                "Description": ""
+            }
+        }
+    },
+    "artem_top_13 Upper": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b66d",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/artem_top_13.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_13 Hands": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b66e",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/artem_hands_13.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_13 Upper Suit": {
+        "clone": "5f5f45df0bc58666c37e7832",
+        "sptID": "668bc5cd834c88e06b08b66f",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b66d",
+                "Hands": "668bc5cd834c88e06b08b66e"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "Black Hoodie - O7S",
+                "ShortName": "Black Hoodie(O7S)",
+                "Description": ""
+            }
+        }
+    },
+    "artem_top_14 Upper": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b670",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/artem_top_14.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_14 Hands": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b671",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/artem_hands_14.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_14 Upper Suit": {
+        "clone": "5f5f45df0bc58666c37e7832",
+        "sptID": "668bc5cd834c88e06b08b672",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b670",
+                "Hands": "668bc5cd834c88e06b08b671"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "Flannel Shirt (Gray)",
+                "ShortName": "Flannel Shirt(Gray)",
+                "Description": ""
+            }
+        }
+    },
+    "artem_top_15 Upper": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b673",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/artem_top_15.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_15 Hands": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b674",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/artem_hands_15.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_15 Upper Suit": {
+        "clone": "5f5f45df0bc58666c37e7832",
+        "sptID": "668bc5cd834c88e06b08b675",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b673",
+                "Hands": "668bc5cd834c88e06b08b674"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "Flannel Shirt (Green)",
+                "ShortName": "Flannel Shirt(Green)",
+                "Description": ""
+            }
+        }
+    },
+    "artem_top_16 Upper": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b676",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/artem_top_16.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_16 Hands": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b677",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/artem_hands_16.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_16 Upper Suit": {
+        "clone": "5f5f45df0bc58666c37e7832",
+        "sptID": "668bc5cd834c88e06b08b678",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b676",
+                "Hands": "668bc5cd834c88e06b08b677"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "Flannel Shirt (Red)",
+                "ShortName": "Flannel Shirt(Red)",
+                "Description": ""
+            }
+        }
+    },
+    "artem_voxshirt Upper": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b679",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/artem_voxshirt.bundle"
+                }
+            }
+        }
+    },
+    "artem_voxshirt Hands": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b67a",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/testhands.bundle"
+                }
+            }
+        }
+    },
+    "artem_voxshirt Upper Suit": {
+        "clone": "5f5f45df0bc58666c37e7832",
+        "sptID": "668bc5cd834c88e06b08b67b",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b679",
+                "Hands": "668bc5cd834c88e06b08b67a"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "Black Urban Shirt (Starvox)",
+                "ShortName": "Black Urban Shirt (Starvox)",
+                "Description": ""
+            }
+        }
+    },
+    "artem_top_18 Upper": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b67c",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/artem_top_18.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_18 Hands": {
+        "clone": "5f5e401747344c2e4f6c42c5",
+        "sptID": "668bc5cd834c88e06b08b67d",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/artem_hands_18.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_18 Upper Suit": {
+        "clone": "5f5f45df0bc58666c37e7832",
+        "sptID": "668bc5cd834c88e06b08b67e",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b67c",
+                "Hands": "668bc5cd834c88e06b08b67d"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "Softshell (Alpine MC)",
+                "ShortName": "Softshell (Alpine MC)",
+                "Description": ""
+            }
+        }
+    },
+    "artem_top_19 Upper": {
+        "clone": "642d9bbf6c06444bf7033855",
+        "sptID": "668bc5cd834c88e06b08b695",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/artem_top_19.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_19 Hands": {
+        "clone": "6436a4c2b6b75d4c89077fbd",
+        "sptID": "668bc5cd834c88e06b08b696",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/artem_hands_19.bundle"
+                },
+                "WatchPrefab": {
+                    "path": "assets/content/hands/usec/usec_watch_garmintactix.bundle",
+                    "rcid": ""
+                }
+            }
+        }
+    },
+    "artem_top_19 Upper Suit": {
+        "clone": "66589eb63733207cb6677dc5",
+        "sptID": "668bc5cd834c88e06b08b697",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b695",
+                "Hands": "668bc5cd834c88e06b08b696"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "Troubleshooter",
+                "ShortName": "Troubleshooter",
+                "Description": ""
+            }
+        }
+    },
+    "artem_top_20 Upper": {
+        "clone": "642d9bbf6c06444bf7033855",
+        "sptID": "668bc5cd834c88e06b08b929",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Tops/artem_top_20.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_20 Hands": {
+        "clone": "6436a4c2b6b75d4c89077fbd",
+        "sptID": "668bc5cd834c88e06b08b92a",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Hands/artem_hands_20.bundle"
+                }
+            }
+        }
+    },
+    "artem_top_20 Upper Suit": {
+        "clone": "66589eb63733207cb6677dc5",
+        "sptID": "668bc5cd834c88e06b08b92b",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Body": "668bc5cd834c88e06b08b929",
+                "Hands": "668bc5cd834c88e06b08b92a"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "Berserk T-Shirt",
+                "ShortName": "Berserk T-Shirt",
+                "Description": ""
+            }
+        }
+    },
+    "artem_pants1 Lower": {
+        "clone": "5f5e40a06760b4138443b341",
+        "sptID": "668bc5cd834c88e06b08b647",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Pants/artem_pants_1.bundle"
+                }
+            }
+        }
+    },
+    "artem_pants1 Lower Suit": {
+        "clone": "5f5f471bdf4f3100376a815e",
+        "sptID": "668bc5cd834c88e06b08b648",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Feet": "668bc5cd834c88e06b08b647"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "HWS Bright Jeans",
+                "ShortName": "HWS Bright Jeans",
+                "Description": ""
+            }
+        }
+    },
+    "artem_pants2 Lower": {
+        "clone": "5f5e40a06760b4138443b341",
+        "sptID": "668bc5cd834c88e06b08b67f",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Pants/artem_pants_2.bundle"
+                }
+            }
+        }
+    },
+    "artem_pants2 Lower Suit": {
+        "clone": "5f5f471bdf4f3100376a815e",
+        "sptID": "668bc5cd834c88e06b08b680",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Feet": "668bc5cd834c88e06b08b67f"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "HWS Tanned Jeans",
+                "ShortName": "HWS Tanned Jeans",
+                "Description": ""
+            }
+        }
+    },
+    "artem_pants3 Lower": {
+        "clone": "5f5e40a06760b4138443b341",
+        "sptID": "668bc5cd834c88e06b08b681",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Pants/artem_pants_3.bundle"
+                }
+            }
+        }
+    },
+    "artem_pants3 Lower Suit": {
+        "clone": "5f5f471bdf4f3100376a815e",
+        "sptID": "668bc5cd834c88e06b08b682",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Feet": "668bc5cd834c88e06b08b681"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "HWS Light Jeans",
+                "ShortName": "HWS Light Jeans",
+                "Description": ""
+            }
+        }
+    },
+    "artem_pants_graves Lower": {
+        "clone": "5f5e40a06760b4138443b341",
+        "sptID": "668bc5cd834c88e06b08b683",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Pants/Graves_Pants.bundle"
+                }
+            }
+        }
+    },
+    "artem_pants_graves Lower Suit": {
+        "clone": "5f5f471bdf4f3100376a815e",
+        "sptID": "668bc5cd834c88e06b08b684",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Feet": "668bc5cd834c88e06b08b683"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "P-40 CLASSIC GEN.2 TACTICAL PANTS", 
+                "ShortName": "P-40 CLASSIC GEN.2 TACTICAL PANTS",
+                "Description": ""
+            }
+        }
+    },
+    "artem_pants5 Lower": {
+        "clone": "5f5e40a06760b4138443b341",
+        "sptID": "668bc5cd834c88e06b08b686",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Pants/artem_pants_5.bundle"
+                }
+            }
+        }
+    },
+    "artem_pants5 Lower Suit": {
+        "clone": "5f5f471bdf4f3100376a815e",
+        "sptID": "668bc5cd834c88e06b08b687",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Feet": "668bc5cd834c88e06b08b686"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "STRIKER XT GEN.3 COMBAT PANTS",
+                "ShortName": "STRIKER XT GEN.3 COMBAT PANTS",
+                "Description": ""
+            }
+        }
+    },
+    "artem_pants6 Lower": {
+        "clone": "5f5e40a06760b4138443b341",
+        "sptID": "668bc5cd834c88e06b08b689",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Pants/artem_pants_6.bundle"
+                }
+            }
+        }
+    },
+    "artem_pants6 Lower Suit": {
+        "clone": "5f5f471bdf4f3100376a815e",
+        "sptID": "668bc5cd834c88e06b08b68a",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Feet": "668bc5cd834c88e06b08b689"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "CRYE PRECISION GEN.4 COMBAT PANTS (MC)",
+                "ShortName": "CRYE PRECISION GEN.4 COMBAT PANTS (MC)",
+                "Description": ""
+            }
+        }
+    },
+    "artem_pants7 Lower": {
+        "clone": "5f5e40a06760b4138443b341",
+        "sptID": "668bc5cd834c88e06b08b68b",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Pants/artem_pants_7.bundle"
+                }
+            }
+        }
+    },
+    "artem_pants7 Lower Suit": {
+        "clone": "5f5f471bdf4f3100376a815e",
+        "sptID": "668bc5cd834c88e06b08b68c",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Feet": "668bc5cd834c88e06b08b68b"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "CRYE PRECISION GEN.4 COMBAT PANTS (Navy Blue)",
+                "ShortName": "CRYE PRECISION GEN.4 COMBAT PANTS (NB)",
+                "Description": ""
+            }
+        }
+    },
+    "artem_pants8 Lower": {
+        "clone": "5f5e40a06760b4138443b341",
+        "sptID": "668bc5cd834c88e06b08b68d",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Pants/artem_pants_8.bundle"
+                }
+            }
+        }
+    },
+    "artem_pants8 Lower Suit": {
+        "clone": "5f5f471bdf4f3100376a815e",
+        "sptID": "668bc5cd834c88e06b08b68e",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Feet": "668bc5cd834c88e06b08b68d"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "Notch Lapel Suit Pants",
+                "ShortName": "Notch Lapel Suit Pants",
+                "Description": ""
+            }
+        }
+    },
+    "artem_pants9 Lower": {
+        "clone": "5f5e40a06760b4138443b341",
+        "sptID": "668bc5cd834c88e06b08b68f",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Pants/artem_pants_9.bundle"
+                }
+            }
+        }
+    },
+    "artem_pants9 Lower Suit": {
+        "clone": "5f5f471bdf4f3100376a815e",
+        "sptID": "668bc5cd834c88e06b08b690",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Feet": "668bc5cd834c88e06b08b68f"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "Fjällräven Barents Pro Trousers (Alpine)",
+                "ShortName": "Fjällräven Barents Pro Trousers(ALP)",
+                "Description": ""
+            }
+        }
+    },
+    "artem_pants10 Lower": {
+        "clone": "5f5e40a06760b4138443b341",
+        "sptID": "668bc5cd834c88e06b08b691",
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Prefab": {
+                    "path": "Pants/artem_pants_10.bundle"
+                }
+            }
+        }
+    },
+    "artem_pants10 Lower Suit": {
+        "clone": "5f5f471bdf4f3100376a815e",
+        "sptID": "668bc5cd834c88e06b08b692",
+        "enable": true,
+        "customization": {
+            "_props": {
+                "Side": [ "Bear", "Usec" ],
+                "Feet": "668bc5cd834c88e06b08b691"
+            }
+        },
+        "locales": {
+            "en": {
+                "Name": "Fjällräven Barents Pro Trousers (Slocam)",
+                "ShortName": "Fjällräven Barents Pro Trousers(SLCM)",
+                "Description": ""
+            }
+        }
+    }
+}
