@@ -11,6 +11,7 @@ import { IFikaPlayer } from "../models/fika/IFikaPlayer";
 import { IFikaRaidCreateRequestData } from "../models/fika/routes/raid/create/IFikaRaidCreateRequestData";
 
 import { FikaConfig } from "../utils/FikaConfig";
+import { FikaDedicatedRaidService } from "./dedicated/FikaDedicatedRaidService";
 
 @injectable()
 export class FikaMatchService {
@@ -22,6 +23,7 @@ export class FikaMatchService {
         @inject("LocationController") protected locationController: LocationController,
         @inject("SaveServer") protected saveServer: SaveServer,
         @inject("FikaConfig") protected fikaConfig: FikaConfig,
+        @inject("FikaDedicatedRaidService") protected fikaDedicatedRaidService: FikaDedicatedRaidService,
     ) {
         this.matches = new Map();
         this.timeoutIntervals = new Map();
@@ -194,7 +196,6 @@ export class FikaMatchService {
             raidConfig: data.settings,
             locationData: locationData,
             status: FikaMatchStatus.LOADING,
-            spawnPoint: null,
             timeout: 0,
             players: new Map(),
             gameVersion: data.gameVersion,
@@ -202,7 +203,8 @@ export class FikaMatchService {
             side: data.side,
             time: data.time,
             raidCode: data.raidCode,
-            natPunch: false
+            natPunch: false,
+            isDedicated: false
         });
 
         this.addTimeoutInterval(data.serverId);
@@ -234,6 +236,10 @@ export class FikaMatchService {
     public endMatch(matchId: string, reason: FikaMatchEndSessionMessage): void {
         this.logger.info(`Coop session ${matchId} has ended: ${reason}`);
 
+        if(this.fikaDedicatedRaidService.requestedSessions.hasOwnProperty(matchId)) {
+            delete this.fikaDedicatedRaidService.requestedSessions[matchId];
+        }
+
         this.deleteMatch(matchId);
     }
 
@@ -248,19 +254,10 @@ export class FikaMatchService {
         }
 
         this.matches.get(matchId).status = status;
-    }
 
-    /**
-     * Sets the spawn point of the given match
-     * @param matchId
-     * @param spawnPoint
-     */
-    public setMatchSpawnPoint(matchId: string, spawnPoint: string): void {
-        if (!this.matches.has(matchId)) {
-            return;
+        if (status.toString() == "COMPLETE") {
+            this.fikaDedicatedRaidService.handleRequestedSessions(matchId);
         }
-
-        this.matches.get(matchId).spawnPoint = spawnPoint;
     }
 
     /**
@@ -269,7 +266,7 @@ export class FikaMatchService {
      * @param ips
      * @param port
      */
-    public setMatchHost(matchId: string, ips: string[], port: number, natPunch: boolean): void {
+    public setMatchHost(matchId: string, ips: string[], port: number, natPunch: boolean, isDedicated: boolean): void {
         if (!this.matches.has(matchId)) {
             return;
         }
@@ -279,6 +276,7 @@ export class FikaMatchService {
         match.ips = ips;
         match.port = port;
         match.natPunch = natPunch;
+        match.isDedicated = isDedicated;
     }
 
     /**

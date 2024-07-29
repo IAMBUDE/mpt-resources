@@ -8,6 +8,8 @@ import { IFikaRaidServerIdRequestData } from "../../models/fika/routes/raid/IFik
 import { IFikaRaidCreateRequestData } from "../../models/fika/routes/raid/create/IFikaRaidCreateRequestData";
 import { IFikaRaidJoinRequestData } from "../../models/fika/routes/raid/join/IFikaRaidJoinRequestData";
 import { IFikaRaidLeaveRequestData } from "../../models/fika/routes/raid/leave/IFikaRaidLeaveRequestData";
+import { IStartDedicatedRequest } from "../../models/fika/routes/raid/dedicated/IStartDedicatedRequest";
+import { IStatusDedicatedRequest } from "../../models/fika/routes/raid/dedicated/IStatusDedicatedRequest";
 
 @injectable()
 export class FikaRaidStaticRouter extends StaticRouter {
@@ -18,18 +20,24 @@ export class FikaRaidStaticRouter extends StaticRouter {
             }),
             new RouteAction("/fika/raid/join", async (url: string, info: IFikaRaidJoinRequestData, sessionID: string, _output: string): Promise<string> => {
                 return this.fikaRaidCallbacks.handleRaidJoin(url, info, sessionID);
-            }),
+            }),            
             new RouteAction("/fika/raid/leave", async (url: string, info: IFikaRaidLeaveRequestData, sessionID: string, _output: string): Promise<INullResponseData> => {
                 return this.fikaRaidCallbacks.handleRaidLeave(url, info, sessionID);
             }),
             new RouteAction("/fika/raid/gethost", async (url: string, info: IFikaRaidServerIdRequestData, sessionID: string, _output: string): Promise<string> => {
-                return this.fikaRaidCallbacks.handleRaidGethost(url, info, sessionID);
-            }),
-            new RouteAction("/fika/raid/spawnpoint", async (url: string, info: IFikaRaidServerIdRequestData, sessionID: string, _output: string): Promise<string> => {
-                return this.fikaRaidCallbacks.handleRaidSpawnpoint(url, info, sessionID);
+                return this.fikaRaidCallbacks.handleRaidGetHost(url, info, sessionID);
             }),
             new RouteAction("/fika/raid/getsettings", async (url: string, info: IFikaRaidServerIdRequestData, sessionID: string, _output: string): Promise<string> => {
                 return this.fikaRaidCallbacks.handleRaidGetSettings(url, info, sessionID);
+            }),
+            new RouteAction("/fika/raid/dedicated/start", async (url: string, info: IStartDedicatedRequest, sessionID: string, _output: string): Promise<string> => {
+                return this.fikaRaidCallbacks.handleRaidStartDedicated(url, info, sessionID);
+            }),
+            new RouteAction("/fika/raid/dedicated/status", async (url: string, info: IStatusDedicatedRequest, sessionID: string, _output: string): Promise<string> => {
+                return this.fikaRaidCallbacks.handleRaidStatusDedicated(url, info, sessionID);
+            }),
+            new RouteAction("/fika/raid/dedicated/getstatus", async (url: string, info: any, sessionID: string, _output: string): Promise<string> => {
+                return this.fikaRaidCallbacks.handleRaidGetStatusDedicated(url, info, sessionID);
             }),
         ]);
     }
