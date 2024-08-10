@@ -67,7 +67,7 @@
     "MaxBitcoins": 5,
     "NoFuelMult": 1,
     "ScavCasePrice": 1,
-    "ScavCaseTime": 0.001,
+    "ScavCaseTime": 0.5,
     "HideoutConstMult": 0.1,
     "HideoutProdMult": 0.2,
     "WaterFilterRate": 50,
